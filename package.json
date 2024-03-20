@@ -1,0 +1,26 @@
+{
+  "name": "eumsed",
+  "version": "1.0.0",
+  "description": "A tool set for the development and optimization of eth compiled by Z",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EulaBoyle/eumsed.git"
+  },
+  "keywords": [
+    "eth"
+  ],
+  "author": "ImeldaBauch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EulaBoyle/eumsed.git/issues"
+  },
+  "homepage": "https://github.com/EulaBoyle/eumsed.git",
+  "dependencies": {
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.10.0"
+  }
+}
